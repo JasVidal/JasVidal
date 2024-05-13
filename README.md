@@ -4,8 +4,8 @@
 <br><br><br><br><br>
 
 ## About me ✨
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c762af-2eb0-48e5-9585-71db4c1d4b0a/dazh1xn-38702347-3f60-46da-8f9d-7c5a3e4b4bf2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5Yzc2MmFmLTJlYjAtNDhlNS05NTg1LTcxZGI0YzFkNGIwYVwvZGF6aDF4bi0zODcwMjM0Ny0zZjYwLTQ2ZGEtOGY5ZC03YzVhM2U0YjRiZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bhn0696I-fUmmOBWZrB9Daedr-Gsq213SNPfUQGaXAI" alt="purpleGif" width= 300 height = 300 align="right" />
-<br><br>
+<br><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c762af-2eb0-48e5-9585-71db4c1d4b0a/dazh1xn-38702347-3f60-46da-8f9d-7c5a3e4b4bf2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5Yzc2MmFmLTJlYjAtNDhlNS05NTg1LTcxZGI0YzFkNGIwYVwvZGF6aDF4bi0zODcwMjM0Ny0zZjYwLTQ2ZGEtOGY5ZC03YzVhM2U0YjRiZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bhn0696I-fUmmOBWZrB9Daedr-Gsq213SNPfUQGaXAI" alt="purpleGif" width= 300 height = 300 align="right" />
+
 - 👻 Hi, I am @JasVidal<br>
 - 🌸 Nickname: Min<br>
 - 💗 I'm interested in Web Design, Programming, Graphic Design and Photography<br>
@@ -87,11 +87,9 @@
 <br><br><br><br><br><br><br>
 
 ## Songs of the week 💿
-<br>
-
-<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "right" />
-<br><br><br><br>
+<br><br>
 <div align="center">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kecuwodqvacafwf6igvsvma&unique={true|1|on|yes})
 </div>
+<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "right" />
