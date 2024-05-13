@@ -46,8 +46,8 @@
 <br><br>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=JasVidal&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=1" height= "195" alt = "toplang"/>
-<img src = "https://github-readme-stats.vercel.app/api?username=JasVidal&theme=midnight-purple&show_icons=true" alt = "stats" /><br><br><img src = "https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" height = 150 width = 150 align = "left,center" />
-<img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% /><img src = "https://i.pinimg.com/originals/3e/78/1d/3e781df81ff40da7e04d799b9db90cb7.gif" height = 200 width = 150 align = "right,center"/>
+<img src = "https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" height = 150 width = 150 align = "left,center" /><img src = "https://github-readme-stats.vercel.app/api?username=JasVidal&theme=midnight-purple&show_icons=true" alt = "stats" /><img src = "https://i.pinimg.com/originals/3e/78/1d/3e781df81ff40da7e04d799b9db90cb7.gif" height = 200 width = 150 align = "right,center"/>
+<img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% />
 </div>
 
 <br><br>
