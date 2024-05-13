@@ -70,11 +70,11 @@
 ## My resume 💻
 
 <img src = "https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/studio-ghibli-susuwatari-with-star-doodle.gif" height = 180 width = 180 align = "right"/>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <div align="center">
 
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/> <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasVidal&theme=chartreuse_dark&utcOffset=8" height= "195" alt = "toplang" align ="center"/> <br><br>
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/> <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasVidal&theme=chartreuse_dark&utcOffset=8" height= "195" alt = "toplang" align ="center"/><br><br>
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/>  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/><br><br> 
 
