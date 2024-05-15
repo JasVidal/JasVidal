@@ -25,20 +25,20 @@
 
 ## Find me around the web 🌎
 <br><br>
-<a href="https://www.linkedin.com/in/jasm%C3%ADn-vidal-b0b4802b1/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width = "45" height="40" />
-</a>
-<a href="https://www.codedex.io/@min-code" target="_blank">
-<img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="45" height="40" />
-</a>
-<a href="https://codepen.io/JasVidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicesapien" width="45" height="40" />
-</a>
-<a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="40" />
-</a>
-<a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicesapien" width="45" height="40" />
-</a>
-<a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nicesapien" width="55" height="50" />
-</a><img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
+<a href="https://www.linkedin.com/in/jasm%C3%ADn-vidal-b0b4802b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://www.codedex.io/@min-code" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://codepen.io/JasVidal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://remotelaboratoria.slack.com/team/U06PW6WUP7D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://gitpod.io/df90aef3-9c04-4892-aace-411ae4206174" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://es.fiverr.com/jasmin_vidal?up_rollout=true" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://jasvidal.gumroad.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gumroad/gumroad-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01ba66b9814f60a66e" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+
+
+<img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
 
 <br><br><br><br>
 
