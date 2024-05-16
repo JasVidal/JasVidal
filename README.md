@@ -1,10 +1,12 @@
 <a>
 <img width="900" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!+%3ADD">
-</a>
-<img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" />
-<br><br><br><br><br><br><br><br>
+</a><img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" vertical-align="center" />
+<br><br><br><br><br><br><br><br><br>
+<br><br>
 
-## About me ✨
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=About+me+%E2%9C%A8">
+<hr>
+
 <br><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c762af-2eb0-48e5-9585-71db4c1d4b0a/dazh1xn-38702347-3f60-46da-8f9d-7c5a3e4b4bf2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5Yzc2MmFmLTJlYjAtNDhlNS05NTg1LTcxZGI0YzFkNGIwYVwvZGF6aDF4bi0zODcwMjM0Ny0zZjYwLTQ2ZGEtOGY5ZC03YzVhM2U0YjRiZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bhn0696I-fUmmOBWZrB9Daedr-Gsq213SNPfUQGaXAI" alt="purpleGif" width= 300 height = 300 align="right" />
 
 - 👻 Hi, I am @JasVidal<br>
@@ -28,9 +30,10 @@
   
 <br><br>
 
-## Find me around the web 🌎
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Find+me+around+the+web+%F0%9F%8C%8E">
+<hr>
 <br><br>
-<div white-space= "normal">
+<p align="left>
 <a href="https://www.linkedin.com/in/jasm%C3%ADn-vidal-b0b4802b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.codedex.io/@min-code" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://codepen.io/JasVidal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="nicesapien" height="40" width="40" /></a>
@@ -42,13 +45,14 @@
 <a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="nicesapien" height="40" width="40" /></a>
-</div>
+</p>
 
 <img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
 
 <br><br><br><br>
 
-## Stats ⚡
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Stats+%E2%9A%A1">
+<hr>
 <br><br>
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=JasVidal&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=1" height= "195" alt = "toplang"/><br>
@@ -58,7 +62,8 @@
 
 <br><br>
 
-## Tools 🧰
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Tools+%F0%9F%A7%B0">
+<hr>
 <br><br>
 <p align="center">
   <img src="https://i.giphy.com/XAxylRMCdpbEWUAvr8.webp" width="100">
@@ -73,7 +78,8 @@
 
 <br><br><br><br>
 
-## My resume 💻
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=My+resume+%F0%9F%92%BB">
+<hr>
 
 <img src = "https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/studio-ghibli-susuwatari-with-star-doodle.gif" height = 180 width = 180 align = "right"/>
 <br><br><br><br><br><br><br><br><br><br>
@@ -90,9 +96,11 @@
 </div>
 <br>
 <img src = "https://i.giphy.com/B395HcNOETZC9bTSF7.webp" height = 180 width = 180 align = "left"/>
-<br><br><br><br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
 
-## Songs of the week 💿
+<img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Songs+of+the+week+%F0%9F%92%BF">
+<hr>
 <br><br>
 <div align="center">
 
