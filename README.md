@@ -24,9 +24,6 @@
 <div align = center>
 <img src = "https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width = 90 />
 </div>
-
-<img alt="Snake animation" src="https://github.com/JasVidal/JasVidal/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-
   
 <br><br>
 
