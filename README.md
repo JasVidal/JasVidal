@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!%3ADD)](https://git.io/typing-svg)
-[<img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" />
-](https://graphic.neocities.org/mvt3.gif)
-<br><br><br><br><br>
+<a>
+<img width="900" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!+%3ADD">
+</a>
+<img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" />
+<br><br><br><br><br><br><br><br>
 
 ## About me ✨
 <br><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c762af-2eb0-48e5-9585-71db4c1d4b0a/dazh1xn-38702347-3f60-46da-8f9d-7c5a3e4b4bf2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5Yzc2MmFmLTJlYjAtNDhlNS05NTg1LTcxZGI0YzFkNGIwYVwvZGF6aDF4bi0zODcwMjM0Ny0zZjYwLTQ2ZGEtOGY5ZC03YzVhM2U0YjRiZjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bhn0696I-fUmmOBWZrB9Daedr-Gsq213SNPfUQGaXAI" alt="purpleGif" width= 300 height = 300 align="right" />
@@ -15,16 +16,21 @@
 - 📩 How to contact me: jasminvidal09@gmail.com<br>
 - 👾 My hobbies: Music, Series, Movies and VideoGames<br>
 - 🤠 Fun fact: I like cheesecake and embroidery, I have a grandma spirit<br>
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <p align = "center" style = "text-decoration: none;">My Codedex Pet from <a href = "https://www.codedex.io/30-nites-of-code">30 Nites Of Code</a></p>
 <div align = center>
 <img src = "https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width = 90 />
 </div>
+
+<img alt="Snake animation" src="https://github.com/JasVidal/JasVidal/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+
+  
 <br><br>
 
 ## Find me around the web 🌎
 <br><br>
+<div white-space= "normal">
 <a href="https://www.linkedin.com/in/jasm%C3%ADn-vidal-b0b4802b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.codedex.io/@min-code" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://codepen.io/JasVidal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="nicesapien" height="40" width="40" /></a>
@@ -36,7 +42,7 @@
 <a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="nicesapien" height="40" width="40" /></a>
-
+</div>
 
 <img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
 
