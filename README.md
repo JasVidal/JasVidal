@@ -1,8 +1,9 @@
 <a>
 <img width="900" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!+%3ADD">
 </a><img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" vertical-align="center" />
-<br><br><br><br><br><br><br><br><br>
-<br><br>
+<br><br><br><br><br>
+<br><br><br><br>
+<br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=About+me+%E2%9C%A8">
 <hr>
@@ -25,7 +26,7 @@
 <img src = "https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width = 90 />
 </div>
   
-<br><br>
+<br><br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Find+me+around+the+web+%F0%9F%8C%8E">
 <hr>
@@ -42,10 +43,9 @@
 <a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="nicesapien" height="40" width="40" /></a>
-</p>
+</p><img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
 
-<img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
-
+<br><br><br><br><br><br>
 <br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Stats+%E2%9A%A1">
@@ -57,7 +57,7 @@
 <img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% />
 </div>
 
-<br><br>
+<br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Tools+%F0%9F%A7%B0">
 <hr>
@@ -70,10 +70,10 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/kH1DBkPNyZPOk0BxrM.webp" width="100">
 </p>
-
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm45ZmdsNGwxd2poam01NmZvN21yNWZwY2w4NWNtcmE3Z282aGQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QVz8bVdhi6dmkIkg61/giphy.gif" height = 150 width = 150 align = "left" /><br><br>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=My+resume+%F0%9F%92%BB">
 <hr>
@@ -93,8 +93,9 @@
 </div>
 <br>
 <img src = "https://i.giphy.com/B395HcNOETZC9bTSF7.webp" height = 180 width = 180 align = "left"/>
-<br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br>
+
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Songs+of+the+week+%F0%9F%92%BF">
 <hr>
