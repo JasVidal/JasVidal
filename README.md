@@ -24,9 +24,14 @@
 <p align = "center" style = "text-decoration: none;">My Codedex Pet from <a href = "https://www.codedex.io/30-nites-of-code">30 Nites Of Code</a></p>
 <div align = center>
 <img src = "https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width = 90 />
+<br><br><br>
+
+
+![snake gif](https://github.com/JasVidal/JasVidal/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
   
-<br><br><br><br><br>
+<br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Find+me+around+the+web+%F0%9F%8C%8E">
 <hr>
@@ -56,6 +61,7 @@
 <img src = "https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" height = 150 width = 150 align = "left" /><img src = "https://github-readme-stats.vercel.app/api?username=JasVidal&theme=midnight-purple&show_icons=true" alt = "stats" /><img src = "https://i.pinimg.com/originals/3e/78/1d/3e781df81ff40da7e04d799b9db90cb7.gif" height = 200 width = 150 align = "right"/>
 <img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% />
 </div>
+
 
 <br><br><br><br>
 
