@@ -23,7 +23,7 @@
 
 <p align = "center" style = "text-decoration: none;">My Codedex Pet from <a href = "https://www.codedex.io/30-nites-of-code">30 Nites Of Code</a></p>
 <div align = center>
-<img src = "https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width = 90 />
+<img src = "https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" width = 90 />
 <br><br><br>
 
 
