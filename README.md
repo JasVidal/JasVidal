@@ -14,8 +14,8 @@
 - 🌸 Nickname: Min<br>
 - 💗 I'm interested in Web Design, Programming, Graphic Design and Photography<br>
 - 🌱 I'm currently learning Programming and Graphic Design<br>
-- 💡 I'm looking to collaborate on projects such as Web and Video Game development<br>
-- 🧠 I'm currently exploring full stack and game development<br>
+- 💡 I'm looking to collaborate on projects such as Frontend Development<br>
+- 🧠 I'm currently exploring full stack Development<br>
 - 📩 How to contact me: jasminvidal09@gmail.com<br>
 - 👾 My hobbies: Music, Series, Movies and VideoGames<br>
 - 🤠 Fun fact: I like cheesecake and embroidery, I have a grandma spirit<br>
