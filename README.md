@@ -62,7 +62,7 @@
 <img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% />
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Tools+%F0%9F%A7%B0">
 <hr>
@@ -77,7 +77,7 @@
 </p>
 <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm45ZmdsNGwxd2poam01NmZvN21yNWZwY2w4NWNtcmE3Z282aGQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QVz8bVdhi6dmkIkg61/giphy.gif" height = 150 width = 150 align = "left" /><br><br>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 <br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Repositories+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
@@ -91,7 +91,8 @@
 </div>
 
 <br><br><br><br><br><br>
-<br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=My+resume+%F0%9F%92%BB">
 <hr>
