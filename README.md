@@ -37,7 +37,7 @@
 <hr>
 <br><br>
 <p align="left>
-<a href="https://www.linkedin.com/in/jasm%C3%ADn-vidal-b0b4802b1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jasminvidal-frontend/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.codedex.io/@min-code" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://codepen.io/JasVidal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://remotelaboratoria.slack.com/team/U06PW6WUP7D" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="nicesapien" height="40" width="40" /></a>
@@ -83,20 +83,25 @@
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Repositories+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
 <hr>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
-  <a align="right" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="Text Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidala&repo=TextAnalyzer&theme=vision-friendly-dark&border_radius=10"></a>
-  <a align="left" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
-  <a align="right" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
-</div>
+<br><br><br><br>
 
-<br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="DEV015_Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
+  <a align="left" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="DEV015_Text_Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Text_Analyzer&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br>
+
+  <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "center" /> 
+  
+  <a align="center" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
+  <a align="center" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
+  </div>
+
+<br><br><br><br><br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=My+resume+%F0%9F%92%BB">
 <hr>
 
 <img src = "https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/studio-ghibli-susuwatari-with-star-doodle.gif" height = 180 width = 180 align = "right"/>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 <div align="center">
@@ -123,4 +128,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kecuwodqvacafwf6igvsvma&unique={true|1|on|yes})
 </div>
-<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "right" />
+<br><br>
+
+<img src = "https://64.media.tumblr.com/9356a5343569692547be79f4fe460829/tumblr_mit6meq11R1rfjowdo1_500.gif" height = 115 width = 570 align = "right" />
