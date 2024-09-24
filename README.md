@@ -1,9 +1,7 @@
-<a>
-<img width="900" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!+%3ADD">
-</a><img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" vertical-align="center" />
+<br>
+<a><img width="900" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=23&pause=1000&color=BA56F7FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hi+from+some+place+on+earth!;+My+name+is+Jasm%C3%ADn+Vidal;Welcome+to+my+Github+Profile!+%3ADD"> </a><img src = "https://graphic.neocities.org/mvt3.gif" height = 200 width = 200 align = "right" vertical-align="center" />
 <br><br><br><br><br>
-<br><br><br><br>
-<br><br><br>
+
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=About+me+%E2%9C%A8">
 <hr>
@@ -35,7 +33,7 @@
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Find+me+around+the+web+%F0%9F%8C%8E">
 <hr>
-<br><br>
+<br><img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
 <p align="left>
 <a href="https://www.linkedin.com/in/jasminvidal-frontend/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.codedex.io/@min-code" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="nicesapien" height="40" width="40" /></a>
@@ -48,9 +46,8 @@
 <a href="mailto:jasminvidal09@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://www.instagram.com/min_vn/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="nicesapien" height="40" width="40" /></a>
 <a href="https://discord.com/channels/Min.who#3933" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="nicesapien" height="40" width="40" /></a>
-</p><img src="https://i.redd.it/6h0c6507gl7c1.gif" height = 150 width = 150 align = "right" />
+</p>
 
-<br><br><br><br><br><br>
 <br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Stats+%E2%9A%A1">
