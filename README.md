@@ -52,9 +52,9 @@
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Stats+%E2%9A%A1">
 <hr>
-<br><br>
+<br>
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=JasVidal&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=1" height= "195" alt = "toplang"/><br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=JasVidal&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=false&order=1" height= "195" alt = "toplang"/><br><br>
 <img src = "https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" height = 150 width = 150 align = "left" /><img src = "https://github-readme-stats.vercel.app/api?username=JasVidal&theme=midnight-purple&show_icons=true" alt = "stats" /><img src = "https://i.pinimg.com/originals/3e/78/1d/3e781df81ff40da7e04d799b9db90cb7.gif" height = 200 width = 150 align = "right"/>
 <img src = "https://streak-stats.demolab.com?user=JasVidal&theme=midnight-purple" width = 55% />
 </div>
@@ -64,6 +64,7 @@
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Tools+%F0%9F%A7%B0">
 <hr>
 <br><br>
+<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm45ZmdsNGwxd2poam01NmZvN21yNWZwY2w4NWNtcmE3Z282aGQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QVz8bVdhi6dmkIkg61/giphy.gif" height = 150 width = 150 align = "left" />
 <p align="center">
   <img src="https://i.giphy.com/XAxylRMCdpbEWUAvr8.webp" width="100">
   <img src="https://i.giphy.com/fsEaZldNC8A1PJ3mwp.webp" width="100">
@@ -72,15 +73,12 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/kH1DBkPNyZPOk0BxrM.webp" width="100">
 </p>
-<img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm45ZmdsNGwxd2poam01NmZvN21yNWZwY2w4NWNtcmE3Z282aGQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QVz8bVdhi6dmkIkg61/giphy.gif" height = 150 width = 150 align = "left" /><br><br>
-
-<br><br><br><br><br>
 <br><br><br><br>
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Repositories+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
 <hr>
 
-<br><br><br><br>
+<br><br>
 
 <div align="center">
   <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="DEV015_Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a>
@@ -99,9 +97,9 @@
 
 <img src = "https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/studio-ghibli-susuwatari-with-star-doodle.gif" height = 180 width = 180 align = "right"/>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
-<div align="center">
+<div align="right">
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/> <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasVidal&theme=chartreuse_dark&utcOffset=8" height= "195" alt = "toplang" align ="center"/><br><br>
 
@@ -109,13 +107,11 @@
 
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/>
-
 </div>
-<br>
 <img src = "https://i.giphy.com/B395HcNOETZC9bTSF7.webp" height = 180 width = 180 align = "left"/>
 
 <br><br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br>
 
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Songs+of+the+week+%F0%9F%92%BF">
