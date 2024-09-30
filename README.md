@@ -79,17 +79,18 @@
 
 <br><br>
 
-<div align="center">
-  <a align="center" href="https://github.com/JasVidal/Guess-the-number" title="Guess the Number"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Guess-the-number&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br>
-  <a align="center" href="https://github.com/JasVidal/DEV015-Dataverse-Chat" title="Dataverse Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015-Dataverse-Chat&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a><br>
-  <a align="center" href="https://github.com/JasVidal/DEV015_Dataverse" title="Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br>
+   <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "center" />
+
+<div align="left" width="50">
+  <a align="left" href="https://github.com/JasVidal/Guess-the-number" title="Guess the Number"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Guess-the-number&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
+  <a align="left" href="https://github.com/JasVidal/DEV015-Dataverse-Chat" title="Dataverse Chat"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015-Dataverse-Chat&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
+  <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
 </div>
-  <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83317a63-2c06-44a1-a772-b9d5b1b29d57/d6rmcih-8c9f7f20-131d-49cf-96e2-9395835d3f1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzMzE3YTYzLTJjMDYtNDRhMS1hNzcyLWI5ZDViMWIyOWQ1N1wvZDZybWNpaC04YzlmN2YyMC0xMzFkLTQ5Y2YtOTZlMi05Mzk1ODM1ZDNmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVR2X08nFytInqsYguPvePiiro0pm07AV-7-fZ0b8vc" height = 140 width = 140 align = "center" />
-<div align="center">
-  <a align="center" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="Text_Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Text_Analyzer&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br>
-  <a align="center" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br>
-  <a align="center" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br>
-  </div>
+<div align="right" width="50">
+  <a align="right" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="Text_Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Text_Analyzer&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
+  <a align="right" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
+  <a align="right" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br>
+</div>
 
 <br><br><br><br><br><br><br><br>
 
