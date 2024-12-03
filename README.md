@@ -77,38 +77,33 @@
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Repositories+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
 <hr>
 
-<br><br>
+<br>
 
-<div>
-  <a align="left" href="https://github.com/JasVidal/Guess-the-number" title="Guess the Number"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Guess-the-number&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/DEV015-Dataverse-Chat" title="Dataverse Chat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015-Dataverse-Chat&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br> 
-  <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="Text_Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Text_Analyzer&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br> 
-  <a align="left" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br>
+<div align="center">
+  <a align="left" href="https://github.com/JasVidal/Guess-the-number" title="Guess the Number"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Guess-the-number&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/DEV015-Dataverse-Chat" title="Dataverse Chat"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015-Dataverse-Chat&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br><br><br><br>
+  <a align="left" href="https://github.com/JasVidal/DEV015_Dataverse" title="Dataverse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Dataverse&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/DEV015_Text_Analyzer" title="Text_Analyzer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=DEV015_Text_Analyzer&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br><br><br><br>
+  <a align="left" href="https://github.com/JasVidal/Portafolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Portafolio&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <a align="right" href="https://github.com/JasVidal/Secciones-web" title="Secciones Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JasVidal&repo=Secciones-Web&theme=vision-friendly-dark&show_icons=true&border_radius=10"></a> <br><br><br><br><br><br>
 </div>
-
-<br><br><br><br><br><br><br><br><br><br>
-
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=My+resume+%F0%9F%92%BB">
 <hr>
 
-<br><br><br>
+<br>
 
-<div align="right"> <img src = "https://custom-doodle.com/wp-content/uploads/doodle/auto-draft/studio-ghibli-susuwatari-with-star-doodle.gif" height = 180 width = 180 align = "right"/>
-
+<div align="center">
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/> <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JasVidal&theme=chartreuse_dark&utcOffset=8" height= "195" alt = "toplang" align ="center"/><br><br>
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/>  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/><br><br> 
 
 <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasVidal&theme=chartreuse_dark" height= "195" alt = "toplang" align ="center"/>
-<img src = "https://i.giphy.com/B395HcNOETZC9bTSF7.webp" height = 180 width = 180 align = "left"/></div>
+</div>
 
-<br><br><br><br><br><br>
 <br><br><br>
 
 
 <img width="600" align="center" src="https://readme-typing-svg.demolab.com?font=Outfit&size=21&pause=1000&color=F7F7F7&background=FFFFFF00&multiline=true&random=false&width=435&lines=Songs+of+the+week+%F0%9F%92%BF">
 <hr>
-<br><br>
+<br>
 <div align="center">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kecuwodqvacafwf6igvsvma&unique={true|1|on|yes})
